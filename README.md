@@ -27,9 +27,9 @@ env\Scripts\activate
 source env/bin/activate
 ``` 
 
-Once this is done, we can navigate to the new "TimeAnalyzer" folder that we cloned from GitHub. 
+Once this is done, we can navigate to the new "TimeAnalyzerWebApp" folder that we cloned from GitHub. 
 ```bash
-cd TimeAnalyzer
+cd TimeAnalyzerWebApp
 ```
 To download all dependencies simply run this. 
 ```python 
